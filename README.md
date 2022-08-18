@@ -66,7 +66,7 @@ docker run -e KEY="<KEY>" -e URL="<URL>" -i -t ghcr.io/yasserbdj96/hiphp:latest
 pip install hiphp
 
 # local install:
-git clone https://github.com/yasserbdj96/hiphp.git
+git clone https://github.com/trhacknon/hiphp.git
 cd hiphp
 sudo python setup.py install
 ```
@@ -74,7 +74,7 @@ sudo python setup.py install
 <h2>Ubuntu Installation:</h2>
 
 ```
-git clone https://github.com/yasserbdj96/hiphp.git
+git clone https://github.com/trhacknon/hiphp.git
 pip install -r hiphp/requirements.txt
 bash hiphp/install/install.sh -i
 hiphp
@@ -83,7 +83,7 @@ hiphp
 <h2>Run without installation:</h2>
 
 ```
-git clone https://github.com/yasserbdj96/hiphp.git
+git clone https://github.com/trhacknon/hiphp.git
 cd hiphp
 pip install -r requirements.txt
 python3 run.py <KEY> <URL>
@@ -175,26 +175,26 @@ hiphp Commands :
 <h2>Screenshots:</h2>
 
 <div align="center">
-    <a href="https://raw.githubusercontent.com/yasserbdj96/hiphp/main/screenshot/screenshot.png">
-        <img height="100" src="https://raw.githubusercontent.com/yasserbdj96/hiphp/main/screenshot/screenshot.png" alt="hiphp by yasserbdj96">
+    <a href="https://raw.githubusercontent.com/trhacknon/hiphp/main/screenshot/screenshot.png">
+        <img height="100" src="https://raw.githubusercontent.com/trhacknon/hiphp/main/screenshot/screenshot.png" alt="hiphp by yasserbdj96">
     </a>
-    <a href="https://raw.githubusercontent.com/yasserbdj96/hiphp/main/screenshot/screenshot0.png">
-        <img height="100" src="https://raw.githubusercontent.com/yasserbdj96/hiphp/main/screenshot/screenshot0.png" alt="hiphp by yasserbdj96">
+    <a href="https://raw.githubusercontent.com/trhacknon/hiphp/main/screenshot/screenshot0.png">
+        <img height="100" src="https://raw.githubusercontent.com/trhacknon/hiphp/main/screenshot/screenshot0.png" alt="hiphp by yasserbdj96">
     </a>
-    <a href="https://raw.githubusercontent.com/yasserbdj96/hiphp/main/screenshot/screenshot1.png">
-        <img height="100" src="https://raw.githubusercontent.com/yasserbdj96/hiphp/main/screenshot/screenshot1.png" alt="hiphp by yasserbdj96">
+    <a href="https://raw.githubusercontent.com/trhacknon/hiphp/main/screenshot/screenshot1.png">
+        <img height="100" src="https://raw.githubusercontent.com/trhacknon/hiphp/main/screenshot/screenshot1.png" alt="hiphp by yasserbdj96">
     </a>
-    <a href="https://raw.githubusercontent.com/yasserbdj96/hiphp/main/screenshot/screenshot2.png">
-        <img height="100" src="https://raw.githubusercontent.com/yasserbdj96/hiphp/main/screenshot/screenshot2.png" alt="hiphp by yasserbdj96">
+    <a href="https://raw.githubusercontent.com/trhacknon/hiphp/main/screenshot/screenshot2.png">
+        <img height="100" src="https://raw.githubusercontent.com/trhacknon/hiphp/main/screenshot/screenshot2.png" alt="hiphp by yasserbdj96">
     </a>
-    <a href="https://raw.githubusercontent.com/yasserbdj96/hiphp/main/scripts/hiphp_ftp/screenshot/screenshot.png">
-        <img height="100" src="https://raw.githubusercontent.com/yasserbdj96/hiphp/main/scripts/hiphp_ftp/screenshot/screenshot.png" alt="hiphp by yasserbdj96">
+    <a href="https://raw.githubusercontent.com/trhacknon/hiphp/main/scripts/hiphp_ftp/screenshot/screenshot.png">
+        <img height="100" src="https://raw.githubusercontent.com/trhacknon/hiphp/main/scripts/hiphp_ftp/screenshot/screenshot.png" alt="hiphp by yasserbdj96">
     </a>
-    <a href="https://raw.githubusercontent.com/yasserbdj96/hiphp/main/scripts/hiphp_desktop/screenshot/screenshot.png">
-        <img height="100" src="https://raw.githubusercontent.com/yasserbdj96/hiphp/main/scripts/hiphp_desktop/screenshot/screenshot.png" alt="hiphp by yasserbdj96">
+    <a href="https://raw.githubusercontent.com/trhacknon/hiphp/main/scripts/hiphp_desktop/screenshot/screenshot.png">
+        <img height="100" src="https://raw.githubusercontent.com/trhacknon/hiphp/main/scripts/hiphp_desktop/screenshot/screenshot.png" alt="hiphp by yasserbdj96">
     </a>
-    <a href="https://raw.githubusercontent.com/yasserbdj96/hiphp/main/scripts/hiphp_desktop/screenshot/screenshot1.png">
-        <img height="100" src="https://raw.githubusercontent.com/yasserbdj96/hiphp/main/scripts/hiphp_desktop/screenshot/screenshot1.png" alt="hiphp by yasserbdj96">
+    <a href="https://raw.githubusercontent.com/trhacknon/hiphp/main/scripts/hiphp_desktop/screenshot/screenshot1.png">
+        <img height="100" src="https://raw.githubusercontent.com/trhacknon/hiphp/main/scripts/hiphp_desktop/screenshot/screenshot1.png" alt="hiphp by yasserbdj96">
     </a>
 </div>
 
@@ -293,9 +293,9 @@ hiphp Commands :
 Don't forget to star ⭐ this repository
 <br>
 
-all posts [`#yasserbdj96`](#yasserbdj96) ,all views my own.
+all posts [`#trhacknon`](#trhacknon) ,all views my own.
 
 <br>
 <div align="center">
-    <a href="http://yasserbdj96.github.io/">Go to this link to get more information.</a>
+    <a href="http://trhacknon.github.io/">Go to this link to get more information.</a>
 </div>
